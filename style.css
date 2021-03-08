@@ -1,14 +1,27 @@
-h1{
-  text-align: center;
+header{
+text-align: center;
   color: antiquewhite;
-  background-color: rgb(106, 245, 236);
+  background-color: rgb(0, 0, 0);
+  height: 100px ;
+}
+body{
+  margin:0;
+}
+h1{
+
+  text-align: center;
+  color: black;
+  background-color:antiquewhite);
   }
 
   h2{
     text-align: center;
   }
-  <img src="https://okcu-clevyr.imgix.net/arts-and-sciences/game-design-animation/animation-lab-06.jpg?auto=compress%2Cformat&fit=clip&ixlib=php-1.1.0&q=80&s=0f59e81b5521a5658d959b71e28a94fa" alt="" 
-  width:""50"" height:"60">
+img{
 
+  border-radius: 17px;
+  padding: 10px;
+  width: 175px;
+}
 
 body{background-color: antiquewhite;}
